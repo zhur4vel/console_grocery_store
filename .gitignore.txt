@@ -1,0 +1,16 @@
+# Ignore Visual Studio temp files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# Rider
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
